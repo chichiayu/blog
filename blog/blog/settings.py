@@ -25,7 +25,10 @@ SECRET_KEY = '09d+x83p5p!)bmtps)dr-ipz$ty66hnk3i)0w5ntwp3y-&*h5x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*']  //123
+
+
+
 
 
 # Application definition
@@ -109,7 +112,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'zh-hant'
 
-TIME_ZONE = 'Asia/Taipei'
+TIME_ZONE = 'Asia/Taipei' 
 
 USE_I18N = True
 
